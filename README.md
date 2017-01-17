@@ -15,5 +15,7 @@ newport.then(port => {
 });
 ```
 
+> Working example in [test.js](https://github.com/tobihrbr/new-port/blob/master/test.js)
+
 ## License
 MIT
